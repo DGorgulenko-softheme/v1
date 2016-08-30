@@ -1,0 +1,14 @@
+E:\CSharp\v1\v1\v1\bin\Debug\v1.exe.config
+E:\CSharp\v1\v1\v1\bin\Debug\v1.exe
+E:\CSharp\v1\v1\v1\bin\Debug\v1.pdb
+E:\CSharp\v1\v1\v1\bin\Debug\log4net.dll
+E:\CSharp\v1\v1\v1\bin\Debug\Newtonsoft.Json.dll
+E:\CSharp\v1\v1\v1\bin\Debug\VersionOne.SDK.APIClient.dll
+E:\CSharp\v1\v1\v1\bin\Debug\log4net.xml
+E:\CSharp\v1\v1\v1\bin\Debug\Newtonsoft.Json.xml
+E:\CSharp\v1\v1\v1\obj\Debug\v1.csprojResolveAssemblyReference.cache
+E:\CSharp\v1\v1\v1\obj\Debug\v1.Form1.resources
+E:\CSharp\v1\v1\v1\obj\Debug\v1.Properties.Resources.resources
+E:\CSharp\v1\v1\v1\obj\Debug\v1.csproj.GenerateResource.Cache
+E:\CSharp\v1\v1\v1\obj\Debug\v1.exe
+E:\CSharp\v1\v1\v1\obj\Debug\v1.pdb
